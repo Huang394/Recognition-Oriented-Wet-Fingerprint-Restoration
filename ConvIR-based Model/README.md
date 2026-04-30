@@ -49,6 +49,12 @@ Example testing:
 
 ```python main.py --mode test --data_dir path --test_model ./pretrained/best.pkl --save_image True```
 
+## Demo
+
+| Input (Wet) | Output (Restored) |
+|------------|------------------|
+| ![](demo/demo_input.bmp) | ![](demo/demo_output.bmp) |
+
 ---
 
 ### Pretrained Models
