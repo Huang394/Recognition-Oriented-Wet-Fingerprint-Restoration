@@ -24,6 +24,23 @@ The fingerprint restoration model is implemented based on ConvIR with task-speci
 For detailed architecture and training configurations, please refer to:
 `ConvIR-based Model/README.md`
 
+---
+
+## Acknowledgement
+
+We sincerely thank the authors of ConvIR for making their code publicly available.
+
+If you use this repository, please also cite:
+
+```
+@article{cui2024revitalizing,
+  title={Revitalizing Convolutional Network for Image Restoration},
+  author={Cui, Yuning and Ren, Wenqi and Cao, Xiaochun and Knoll, Alois},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2024},
+  publisher={IEEE}
+```
+
 ## Anonymous Submission
 
 This repository is provided for anonymous review. 
