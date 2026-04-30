@@ -1,10 +1,11 @@
-# Recognition Oriented Wet Fingerprint Restoration
+# Recognition-Oriented Wet Fingerprint Restoration
 This repository provides the implementation of our IJCB paper:
 
 "Recognition-Oriented Wet Fingerprint Restoration with Degradation-Aware Analysis for Small-Area Sensors"
 
 This work focuses on wet fingerprint restoration from a recognition-oriented perspective, 
 aiming to preserve ridge structures that are critical for reliable matching.
+
 ---
 
 ## Pipeline
@@ -19,7 +20,7 @@ They will be released upon acceptance.
 
 ## Model Details
 
-The fingerprint restoration model is implemented based on ConvIR with task-specific adaptations.
+The fingerprint restoration model is implemented based on ConvIR, a convolutional image restoration framework, with task-specific adaptations
 
 For detailed architecture and training configurations, please refer to:
 `ConvIR-based Model/README.md`
@@ -43,6 +44,6 @@ If you use this repository, please also cite:
 
 ## Anonymous Submission
 
-This repository is provided for anonymous review. 
+This repository aims to provide a clear and reproducible implementation under the anonymous review setting.
 Some components are withheld due to licensing and anonymization constraints, 
 and will be released upon acceptance.
