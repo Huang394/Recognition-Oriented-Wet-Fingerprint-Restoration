@@ -1,11 +1,14 @@
-# Recognition-Oriented-Wet-Fingerprint-Restoration
+# Recognition Oriented Wet Fingerprint Restoration
 This repository provides the implementation of our IJCB paper:
 
 "Recognition-Oriented Wet Fingerprint Restoration with Degradation-Aware Analysis for Small-Area Sensors"
 
+This work focuses on wet fingerprint restoration from a recognition-oriented perspective, 
+aiming to preserve ridge structures that are critical for reliable matching.
 ---
 
-The full pipeline consists of three components:
+## Pipeline
+The proposed framework consists of three components:
 
 1. Fingerprint restoration model (released in this repository)
 2. Wet quality classifier
@@ -14,8 +17,12 @@ The full pipeline consists of three components:
 Due to licensing and data restrictions, components (2) and (3) are not included in this anonymous version.
 They will be released upon acceptance.
 
-## Model Detail
-The description of fingerprint restoration model is in the `ConvIR-based Model/README.md`, please refer to the file to get the model detail.
+## Model Details
+
+The fingerprint restoration model is implemented based on ConvIR with task-specific adaptations.
+
+For detailed architecture and training configurations, please refer to:
+`ConvIR-based Model/README.md`
 
 ## Anonymous Submission
 
