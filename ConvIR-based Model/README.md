@@ -45,6 +45,13 @@ For detailed environment setup and training procedures, please refer to the orig
 
 https://github.com/c-yn/ConvIR/tree/main/Dehazing/ITS
 
+Example testing:
+
+```python main.py --mode test --data_dir path --```
+
+The input should be a grayscale fingerprint image.
+The output will be the restored fingerprint image.
+
 ---
 
 ### Pretrained Models
