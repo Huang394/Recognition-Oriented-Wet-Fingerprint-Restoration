@@ -1,6 +1,5 @@
 
 # Recognition-Oriented-Wet-Fingerprint-Restoration
-
 This repository provides the implementation of our IJCB paper:
 
 "Recognition-Oriented Wet Fingerprint Restoration with Degradation-Aware Analysis for Small-Area Sensors"
@@ -32,30 +31,28 @@ small-area wet fingerprint restoration task through:
 - Adjusting training configurations for fingerprint image characteristics
 - Constructing a paired dry–wet fingerprint training pipeline
 
-The key contribution lies in **task adaptation and structure-sensitive supervision**,  
-rather than architectural redesign.
+The key contribution lies in adapting a general restoration framework 
+to a recognition-oriented fingerprint restoration task with structure-aware supervision.
 
 ---
 
 ## How to Use
 
-The training and testing procedures are identical to the official ConvIR
-implementation under the `Dehazing/ITS` configuration:
+This implementation is based on ConvIR (Dehazing/ITS configuration). 
+We retain the original training pipeline with minor adaptations for fingerprint restoration.
+
+For detailed environment setup and training procedures, please refer to the original ConvIR repository.
 
 https://github.com/c-yn/ConvIR/tree/main/Dehazing/ITS
-
-Please follow the original repository for:
-
-- Environment setup  
-- Dataset preparation  
-- Training instructions  
-- Testing and evaluation procedures  
 
 ---
 
 ### Pretrained Models
 
-Our pretrained restoration models will provided on Google Drive upon acceptance, please put the pretrained model under: ```./pretrain/```
+Pretrained models will be released upon acceptance.
+
+Please place the downloaded weights under:
+`./pretrain/`
 
 ---
 
