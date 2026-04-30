@@ -1,4 +1,4 @@
-This module evaluates fingerprint recognition performance using TAR@FAR.
+This folder evaluates fingerprint recognition performance using TAR@FAR.
 
 Due to licensing restrictions, the recognition tool (e.g., matcher) cannot be publicly released.
 
