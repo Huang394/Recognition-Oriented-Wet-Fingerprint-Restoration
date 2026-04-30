@@ -1,9 +1,9 @@
 
-# Structure-Oriented ConvIR for Small-Area Wet Fingerprint Restoration
+# Recognition-Oriented-Wet-Fingerprint-Restoration
 
-This repository provides the implementation of our CVPR Workshop paper:
+This repository provides the implementation of our IJCB paper:
 
-"Structure-Oriented ConvIR and CycleGAN Benchmarking for Small-Area Wet Fingerprints"
+"Recognition-Oriented Wet Fingerprint Restoration with Degradation-Aware Analysis for Small-Area Sensors"
 
 ---
 
@@ -31,7 +31,6 @@ small-area wet fingerprint restoration task through:
 - Replacing the original loss function with a hybrid **L1 + MS-SSIM** loss
 - Adjusting training configurations for fingerprint image characteristics
 - Constructing a paired dry–wet fingerprint training pipeline
-- Introducing recognition-level evaluation (FRR) for validation
 
 The key contribution lies in **task adaptation and structure-sensitive supervision**,  
 rather than architectural redesign.
@@ -68,7 +67,7 @@ Please follow the original repository for:
 
 ### Pretrained Models
 
-Our pretrained restoration models are provided under: ```pretrain/```
+Our pretrained restoration models will provided under: ```./pretrain/```
 
 ---
 
