@@ -36,19 +36,7 @@ The key contribution lies in **task adaptation and structure-sensitive supervisi
 rather than architectural redesign.
 
 ---
-## Dataset Generation (CycleGAN)
 
-The public wet fingerprint benchmark used in our paper is generated
-using a CycleGAN-based style translation pipeline.
-
-To ensure strict separation between restoration training and dataset
-construction, the pretrained CycleGAN models are released in a separate repository:
-
-👉 https://drive.google.com/drive/folders/1hnB0tfAXoUJmXm9OzTD33nlLZU2GqJio?usp=drive_link (麻煩學長幫我弄成匿名github 謝謝)
-
-This separation prevents data leakage and maintains experimental integrity.
-
----
 ## How to Use
 
 The training and testing procedures are identical to the official ConvIR
