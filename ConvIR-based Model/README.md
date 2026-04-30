@@ -67,7 +67,7 @@ Please follow the original repository for:
 
 ### Pretrained Models
 
-Our pretrained restoration models will provided under: ```./pretrain/```
+Our pretrained restoration models will provided on Google Drive upon acceptance, please put the pretrained model under: ```./pretrain/```
 
 ---
 
