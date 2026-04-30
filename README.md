@@ -14,6 +14,9 @@ The full pipeline consists of three components:
 Due to licensing and data restrictions, components (2) and (3) are not included in this anonymous version.
 They will be released upon acceptance.
 
+## Model Detail
+The description of fingerprint restoration model is in the `ConvIR-based Model/README.md`, please refer to the file to get the model detail.
+
 ## Anonymous Submission
 
 This repository is provided for anonymous review. 
