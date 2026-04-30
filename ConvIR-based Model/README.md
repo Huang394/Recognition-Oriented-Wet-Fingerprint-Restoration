@@ -1,6 +1,6 @@
 
-# Recognition-Oriented-Wet-Fingerprint-Restoration
-This repository provides the implementation of our IJCB paper:
+# ConvIR-based Model
+This folder provides the implementation of our IJCB paper:
 
 "Recognition-Oriented Wet Fingerprint Restoration with Degradation-Aware Analysis for Small-Area Sensors"
 
