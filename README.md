@@ -13,3 +13,9 @@ The full pipeline consists of three components:
 
 Due to licensing and data restrictions, components (2) and (3) are not included in this anonymous version.
 They will be released upon acceptance.
+
+## Anonymous Submission
+
+This repository is provided for anonymous review. 
+Some components are withheld due to licensing and anonymization constraints, 
+and will be released upon acceptance.
