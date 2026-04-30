@@ -53,7 +53,7 @@ Example testing:
 
 | Input (Wet) | Output (Restored) |
 |------------|------------------|
-| ![](demo/demo_input.bmp) | ![](demo/demo_output.bmp) |
+| ![](demo/demo_input.png) | ![](demo/demo_output.png) |
 
 ---
 
